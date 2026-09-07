@@ -3,15 +3,11 @@
 Simulation code for the DoLP-vs-reflectance model in:
 
 > M. Tian, M. Z. E. Rafique, K. Chidambaranathan, R. Brost, D. Small, D. Novick,
-> J. Yellowhair, Y. Yao, \\\\\\\\\\\\\\\*A Polarimetry-based Field-deployable Non-interruptive
-> Mirror Soiling Detection Method\\\\\\\\\\\\\\\*, Solar Energy (2026).
-> arXiv:2501.01643
+> J. Yellowhair, Y. Yao, *A Polarimetry-based Field-deployable Non-interruptive
+> Mirror Soiling Detection Method*, Solar Energy (2026).
 
 Section and equation numbers in the code comments refer to that paper.
 
-\---
-
-## 
 
 ## Start here
 
