@@ -14,7 +14,6 @@ Section and equation numbers in the code comments refer to that paper.
 1. Open MATLAB in this folder.
 2. Run `run\_pims\_simulation.m` to execute the cleaned version of the Sahara-soil simulation workflow.
 3. Use `functions/process\_polarization\_image.m` for raw polarization-camera image processing.
-4. See `docs/CODE\_AUDIT.md` for the reconstruction of the original workflow and `docs/REFACTOR\_LOG.md` for every change made.
 
 ## Directory structure
 
@@ -22,7 +21,6 @@ Section and equation numbers in the code comments refer to that paper.
 * `functions/` - standalone Mie, Rayleigh-skylight, geometry, Mueller-matrix, and utility functions extracted from the original script.
 * `data/` - uploaded particle/skylight data.
 * `examples/` - short usage examples.
-* `docs/` - audit, workflow, assumptions, and refactor notes.
 
 ## Scientific model
 
